@@ -1,6 +1,6 @@
 # A/B Testing & Sales Optimization
 
-[![Buka di Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shouanrenn/A-B-Testing-Sales-Optimization/blob/main/AB_Testing_Sales_Optimization.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shouanrenn/A-B-Testing-Sales-Optimization/blob/main/AB_Testing_Sales_Optimization.ipynb)
 
 ## Deskripsi Proyek
 Proyek ini bertujuan untuk menganalisis efektivitas sebuah strategi/intervensi bisnis terhadap peningkatan penjualan melalui metode **A/B Testing**. Selain melakukan analisis kausal dengan uji statistik, proyek ini juga mengimplementasikan pemodelan **Machine Learning** menggunakan *Random Forest Classifier* untuk memprediksi probabilitas pembelian pelanggan (`Purchase_Made`).
@@ -37,7 +37,7 @@ Dataset berisi informasi pelanggan dengan kolom utama:
 
 ## Cara Menjalankan Melalui Google Colab
 Proyek ini sangat mudah dijalankan langsung melalui browser menggunakan **Google Colab**.
-1. Klik tombol **Buka di Colab** yang ada di bagian paling atas halaman ini.
+1. Klik tombol **Open In Colab** yang ada di bagian paling atas halaman ini.
 2. Anda akan diarahkan langsung ke Google Colab.
 3. Klik **Runtime** > **Run all** untuk mengeksekusi seluruh sel kode dari awal hingga akhir.
 
